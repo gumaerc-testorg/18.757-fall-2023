@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.757 F23 Lecture 22: Projective Functors, Part I'
+title: '18.757 F23 Lecture 22: Projective Functors, Part I '
 uid: acde5c64-ec4c-4b8f-aa04-ff4b53ab0d02
 video_files:
   archive_url: ''
