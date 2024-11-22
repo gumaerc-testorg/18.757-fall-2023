@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.757 F23 Lecture 12: Proof of the Chevalley-Shephard-Todd Theorem, Part
-  II'
+title: '18.757 F23 Lecture 12: Chevalley-Shephard-Todd Theorem, Part II'
 uid: 403d141b-a037-4094-ab57-2010029082f3
 video_files:
   archive_url: ''

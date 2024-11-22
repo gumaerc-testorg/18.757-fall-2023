@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.757 F23 Lecture 18: Maps of Finite Type, the Duflo-Joseph Theorem'
+title: '18.757 F23 Lecture 18: Maps of Finite Type, Duflo-Joseph Theorem'
 uid: 6fb4d21e-d91c-4df5-b04a-3ab90468569b
 video_files:
   archive_url: ''
