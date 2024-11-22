@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.757 F23 Lecture 10: The Chevalley Restriction Theorem and the Chevalley-Shephard-Todd
+title: '18.757 F23 Lecture 10: Chevalley Restriction Theorem and Chevalley-Shephard-Todd
   Theorem'
 uid: 5f00c6af-b219-4d25-a7b5-89fed98be45b
 video_files:

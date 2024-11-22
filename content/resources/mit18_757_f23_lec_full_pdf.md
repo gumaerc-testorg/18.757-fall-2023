@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.757 F23 Full Lecture Notes: Representations of Lie Groups'
+title: '18.757 F23 Full Lecture Notes: Representations Of Lie Groups'
 uid: df3666a3-7bec-44d1-aed0-2e6343d61e1c
 video_files:
   archive_url: ''
