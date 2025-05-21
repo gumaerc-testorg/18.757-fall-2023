@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-757-representations-of-lie-groups-fall-2023/mit18_757_f23_lec11.pdf
+file: courses/representations-of-lie-groups/mit18_757_f23_lec11.pdf
 file_size: 387257
 file_type: application/pdf
 image_metadata:
