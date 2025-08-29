@@ -34,10 +34,11 @@
     "website": "representations-of-lie-groups"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Problem Sets"
   ],
   "site_uid": "b92d8eec-84da-4a27-b024-c78057bf5d43",
-  "site_short_id": "18.757-fall-2023"
+  "site_short_id": "18.757-fall-2023",
+  "site_url_path": "courses/18-757-representations-of-lie-groups-fall-2023"
 }
