@@ -12,11 +12,11 @@ Lectures: 2 sessions / week, 80 minutes / session
 
 ## Prerequisites
 
-[*18.745 Lie Groups and Lie Algebras I*](https://ocw.mit.edu/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/) *or* [*18.755 Lie Groups and Lie Algebras II*](https://ocw.mit.edu/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/) 
+{{% resource_link "95d6d330-2173-4e06-a53a-4f0bd0545ae8" "*18.745 Lie Groups and Lie Algebras I*" %}} *or* {{% resource_link "4cb8a727-2480-4614-8a1c-c1242f819ecb" "*18.755 Lie Groups and Lie Algebras II*" %}} 
 
 ## Course Overview
 
-The goal of this course is to give an introduction to the representation theory of non-compact semisimple Lie groups. It will rely on some material from [*18.745 Lie Groups and Lie Algebras I*](https://ocw.mit.edu/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/) and [*18.755 Lie Groups and Lie Algebras II*](https://ocw.mit.edu/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/) described in the [Full Lecture Notes: Lie Groups and Lie Algebras I & II (PDF)](https://ocw.mit.edu/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/resources/mit18_755_s24_lec_full_pdf/) (which, in particular, develop the representation theory of compact Lie groups). However, full familiarity with this material is not required.
+The goal of this course is to give an introduction to the representation theory of non-compact semisimple Lie groups. It will rely on some material from {{% resource_link "95d6d330-2173-4e06-a53a-4f0bd0545ae8" "*18.745 Lie Groups and Lie Algebras I*" %}} and {{% resource_link "4cb8a727-2480-4614-8a1c-c1242f819ecb" "*18.755 Lie Groups and Lie Algebras II*" %}} described in the {{% resource_link "8c10f650-4551-4a2d-92df-ae8acf4c81d6" "Full Lecture Notes: Lie Groups and Lie Algebras I & II (PDF)" %}} (which, in particular, develop the representation theory of compact Lie groups). However, full familiarity with this material is not required.
 
 The two most essential differences between representation theories of compact and non-compact Lie groups are that irreducible representations of non-compact Lie groups are in general infinite-dimensional, and that representations are not completely reducible. This makes the story much more complicated than in the compact case. Namely, the first aspect necessitates a non-trivial input from functional analysis (as representations are realized in Fréchet and Hilbert spaces), while the second aspect requires bringing in category theory and homological algebra.
 
@@ -32,17 +32,17 @@ The last part of the course is an introduction to geometric representation theor
 
 The main source for the course will be the {{% resource_link "8b164eb9-830a-4775-8839-fd2a3ce47e2c" "lecture notes" %}}. The following online sources are helpful, too.
 
-Knapp, Anthony W. and Peter E. Trapa. [Representations of Semisimple Lie Groups (PDF)](https://www.math.utah.edu/%7Eptrapa/Knapp-Trapa.pdf)
+Knapp, Anthony W. and Peter E. Trapa. {{% resource_link "1e6ad08a-cdb9-47cf-a5d2-eaa6e301073f" "Representations of Semisimple Lie Groups (PDF)" %}}
 
-Libine, Matvei. [Introduction to Representations of Real Semisimple Lie Groups (PDF)](https://arxiv.org/pdf/1212.2578)
+Libine, Matvei. {{% resource_link "207467bb-140f-454f-9665-3bb1b6000d65" "Introduction to Representations of Real Semisimple Lie Groups (PDF)" %}}
 
-Adams, Jeffrey, Dan Barbasch, and David A. Vogan, Jr. [The Langlands Classification and Irreducible Characters for Real Reductive Groups (PDF)](https://www.math.utah.edu/%7Eptrapa/math-library/abv/abv.pdf)
+Adams, Jeffrey, Dan Barbasch, and David A. Vogan, Jr. {{% resource_link "84835168-9648-4307-bd2f-2f1c41911e46" "The Langlands Classification and Irreducible Characters for Real Reductive Groups (PDF)" %}}
 
-Gaitsgory, Dennis. [Geometric Representation Theory (PDF)](https://people.mpim-bonn.mpg.de/gaitsgde/267y/catO.pdf)
+Gaitsgory, Dennis. {{% resource_link "a12fba69-c67d-4384-a791-04fc7608cd08" "Geometric Representation Theory (PDF)" %}}
 
-Bezrukavnikov, Roman. [Canonical Bases and Representation Categories (PDF)](https://math.mit.edu/%7Ebezrukav/old/Course_RT.pdf)
+Bezrukavnikov, Roman. {{% resource_link "365eb2e8-82c1-4b5a-ab2d-7ad043ed40c0" "Canonical Bases and Representation Categories (PDF)" %}}
 
-Gaitsgory, Dennis. [Notes on Representations of Real Reductive Groups (PDF)](https://people.mpim-bonn.mpg.de/gaitsgde/RepRealRed_2017/Notes.pdf)
+Gaitsgory, Dennis. {{% resource_link "553c7e75-c68e-4464-b177-6b5a7cad324f" "Notes on Representations of Real Reductive Groups (PDF)" %}}
 
 ## Assignments
 
